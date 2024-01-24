@@ -10,7 +10,7 @@ This code accompanies Levy et al., in press, "Multivariate lesion symptom mappin
 ## Data tables available upon reasonable request
 | Filename | Description |
 |---|---|
-| finalTbl.mat | A data table reflecting the full dataset. Described in detail below. |
+| finalTbl.mat | A data table reflecting the full dataset, including scaled predictor variables and lesion load vectors for each patient.
 | table1Data.mat | Unscaled demographic and lesion size data for the full dataset. |
 
 ## Auxiliary files
