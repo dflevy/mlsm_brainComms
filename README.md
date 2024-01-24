@@ -8,6 +8,8 @@ This code accompanies Levy et al., in press, "Multivariate lesion symptom mappin
 | MLSM_make_models.m | The main code for generating SVR models. Currently a script that saves out the models directly. |
 
 ## Data tables available upon reasonable request
+| Filename | Description |
+|---|---|
 | finalTbl.mat | A data table reflecting the full dataset. Described in detail below. |
 | table1Data.mat | Unscaled demographic and lesion size data for the full dataset. |
 
