@@ -1,6 +1,6 @@
 # mlsm_brainComms
 
-This code accompanies Levy et al., in press, "Multivariate lesion symptom mapping for predicting trajectories of recovery from aphasia". 
+This code accompanies Levy et al., 2024, "Multivariate lesion symptom mapping for predicting trajectories of recovery from aphasia". 
 
 ## Key analysis files
 | Filename | Description |
